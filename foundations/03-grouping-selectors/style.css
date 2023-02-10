@@ -1,0 +1,13 @@
+.wham,.bam {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.wham {
+    background-color: black;
+    color: white;
+}
+
+.bam {
+    background-color: yellow;
+}
