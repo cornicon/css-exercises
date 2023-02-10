@@ -1,0 +1,18 @@
+.shared {
+    background-color: salmon;
+}
+
+#one {
+    font-size: 30px;
+    color: blue;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#another {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
